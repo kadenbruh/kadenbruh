@@ -4,4 +4,4 @@
 #### Studying: Electrical and Computer Engineering
 #### Interests: Music, Design, Robotics
 
-#### Currently working on studies, but I'm always happy to collaborate.
+### Currently working on studies, but I'm always happy to collaborate.
